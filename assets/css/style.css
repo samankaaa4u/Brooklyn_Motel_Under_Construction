@@ -164,36 +164,6 @@ h6 {
   }
 }
 
-.sm{
-  font-family: "Raleway", sans-serif;
-  padding: 10px;
-  max-width: 100%;
-  width: 100%;
-}
-
-.social-links {
-  margin-top: 10px;
-}
-
-.social-links h4{
-  font-weight: bold;
-}
-
-.social-links a {
-  font-size: 43px;
-  display: inline-block;
-  color: rgba(255, 255, 255, 0.8);
-  line-height: 1;
-  padding-top: 14px;
-  margin: 0 10px;
-  text-align: center;
-  transition: 0.3s;
-}
-
-.social-links a:hover {
-  color: #fff;
-}
-
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
