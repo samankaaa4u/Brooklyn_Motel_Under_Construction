@@ -89,6 +89,7 @@ h6 {
 }
 
 #header h1 {
+  text-align: center;
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 700;
@@ -99,7 +100,8 @@ h6 {
 #header h2 {
   color: #eee;
   margin-bottom: 40px;
-  font-size: 22px;
+  font-size: 30px;
+  color: #ff0000dc;
 }
 
 #header .countdown {
